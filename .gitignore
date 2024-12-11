@@ -1,0 +1,5 @@
+# Ignore dataset directory
+fruit_datasets/
+
+# Ignore zip files
+*.zip
